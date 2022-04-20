@@ -9,7 +9,7 @@ void main() {
 }
 
 
-int findVolume(int length, {int breadth, int height}) {
+findVolume(length, {breadth, height}) {
 
 	print("Length is $length");
 	print("Breadth is $breadth");
